@@ -1,0 +1,8 @@
+run:
+  go: '1.23'
+issues:
+  exclude-dirs:
+    - .idea
+linters-settings:
+  errcheck:
+    ignore: ''
